@@ -1,0 +1,12 @@
+srs
+
+Introduction -Online gaming website
+Purpose - to provide high level gaming experience
+Scope - the online gaming webite is robust and up to date
+overview: the project contains front end development,back end web develoopment, website development
+general description: shooter games,battle royale,termination of enemies,confirmation of map, waiting lobby, cancfellation of game
+Fundamental requirement:
+    They are of two types:
+    Software req = domain,server, web hosting software
+    Hardware req = server,admin, compuiters,internet
+Technical isssues: bugs,glitches, network trtaffic,Server 
